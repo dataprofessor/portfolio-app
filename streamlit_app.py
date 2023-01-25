@@ -8,7 +8,7 @@ with open("style.css") as f:
 # Header 
 st.write('''
 # Chanin Nantasenamat, Ph.D.
-##### *Resume* 
+##### *Portfolio* 
 ''')
 
 image = Image.open('photo.png')
