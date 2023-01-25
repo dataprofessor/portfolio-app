@@ -4,7 +4,7 @@ This is a Portfolio app.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dash-board.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chanin-portfolio.streamlitapp.com/)
 
 # Credit
 
