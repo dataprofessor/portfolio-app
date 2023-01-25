@@ -8,4 +8,4 @@ This is a Portfolio app.
 
 # Credit
 
-- <a href="https://www.flaticon.com/free-icons/profile" title="profile icons">Profile icons created by Stockio - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/login" title="login icons">Login icons created by Uniconlabs - Flaticon</a>
